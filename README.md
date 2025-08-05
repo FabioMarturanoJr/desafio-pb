@@ -1,4 +1,4 @@
-# rabbitmq-dot-net
+# desafio-pb-rabbitmq-dot-net
 
 Esse projeto foi desenvolvido em .net 8.0
 
